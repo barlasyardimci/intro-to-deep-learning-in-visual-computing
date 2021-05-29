@@ -1,1 +1,3 @@
-# intro-to-deep-learning-in-visual-computing
+# CSE 598: Intro to Deep Learning in Visual Computing
+
+Week 1: 
